@@ -19,7 +19,7 @@ export const Navbar = () => {
           <MenuIcon className="text-white" />
         </div>
         <nav className="text-white gap-6 items-center hidden sm:flex">
-          <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition-opacity-100 transition">About</a>
+          <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition">About</a>
           <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition">Features</a>
           <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition">Updates</a>
           <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition">Help</a>
