@@ -24,7 +24,7 @@ export const Navbar = () => {
           <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition">Updates</a>
           <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition">Help</a>
           <a href="#" className="text-opacity-60 text-white hover:text-opacity-100 transition">Customers</a>
-          <button className="bg-white py-2 px-4 text-black rounded-lg">Get for free</button>
+          <button className="bg-white py-2 px-4 text-black rounded-lg font-medium">Get for free</button>
         </nav>
       </div>
     </div>
